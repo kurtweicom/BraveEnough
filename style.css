@@ -1,0 +1,107 @@
+
+.main-container{
+    background-color:#232323;
+    width:80%;
+    text-align:left;
+    margin:0 auto;
+    background-image: url(images/bgpic.jpg);
+    background-position: top left;
+    background-repeat: no-repeat;
+	background-size:60%;
+}
+
+.content{
+    background-color:rgba(0,0,0,0.5);
+    width:90%;
+    margin:15% auto 5% auto;
+}
+
+.foot{
+    background:#232323;
+    width:80%;
+    margin-bottom:1%
+
+}
+
+#logo img{
+    width: 70%;
+    margin: 10% auto 4% auto;
+
+}
+
+#brave{
+    color:#77b17e;
+    font-family: Raleway;
+    font-size: 70px;
+}
+
+#tour{
+    color:#77b17e;
+    font-size: 30px;
+    margin: 2% auto 10% auto;
+}
+
+.content p{
+    color:#f7f7f7;
+    padding: 3% 3% 0% 3%;
+}
+
+#tracklist{
+    color:#77b17e;
+    font-size:30px;
+    font-family: Raleway;
+}
+
+#right-list{
+    color:#77b17e;
+    margin:10px auto 20px auto;
+    padding:0 13%;
+    font-size: 15px;
+}
+
+#left-list{
+    color:#77b17e;
+    margin:10px auto 50px auto;
+    padding:0 10%;
+    font-size: 15px;
+}
+
+#cover img{
+    max-width:100%;
+    border:10px solid #77b17e;
+    margin: 0 15% 15% 11%;
+}
+
+#info{
+    text-align: left;
+    margin-top:0px;
+}
+
+#info button{
+    text-align:left;
+    margin-left:15px;
+    background:#77b17e;
+    width:60%;
+    border:1px solid #77b17e;
+    text-align:center;
+    font-size:15px;
+}
+
+#info a{
+    text-align:left;
+    color:#ffffff;
+    font-size:25px;
+    margin:15px;
+}
+
+#album{
+    font-size: 20px;
+    color:#ffffff;
+    margin-top:0px;
+}
+
+#moreinfo{
+    font-size: 20px;
+    color:#77b17e;
+}
+
